@@ -23,4 +23,6 @@ The magazine editors have some requested modifications for the database before y
 
 ## Part 3: Exploratory Analysis
 Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
+
 ![The first 5 rows](https://user-images.githubusercontent.com/116124181/216494276-b5f55736-262f-4030-9a7c-44a71e42f50d.png)
+
